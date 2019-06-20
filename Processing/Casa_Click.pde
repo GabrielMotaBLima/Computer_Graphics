@@ -10,7 +10,7 @@ void setup(){
   size(1000,1000);
   stroke(0,0,0);
   
-  img = loadImage("tiririca.jpg");
+  img = loadImage("YOUR_IMAGE.jpg");
   
   
   for(i=0; i<10; i++){
